@@ -13,5 +13,3 @@ Estatística004 - Correlação e Regressão
 
 Estatística005 - Introdução a modelagem - Projeto
 
-Qualquer dúvida, feedback, convite para projetos e estudos estou aberto.  
-E-mail: leo.costarodrigues@outlook.com
